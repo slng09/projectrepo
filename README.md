@@ -1,2 +1,2 @@
 # projectrepo
-# the purpose of projectrepo is to demostate my understanding of verison control
+# the purpose of projectrepo is to demostrate my understanding of verison control
